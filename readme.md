@@ -1,7 +1,7 @@
 
 # Socket.IO Chat
 
-A simple chat demo for socket.io, based on koa and koa-static
+A simple chat demo for socket.io, based on [koa](https://github.com/koajs/koa) and [koa-static](https://github.com/koajs/static)
 
 ## How to use
 
