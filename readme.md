@@ -6,9 +6,8 @@ A simple chat demo for socket.io, based on [koa](https://github.com/koajs/koa) a
 ## How to use
 
 ```
-$ cd socket.io
-$ npm install
-$ cd examples/chat
+$ git clone git@github.com:Enginebeck/koa-socket.io-example.git
+$ cd koa-socket.io-example
 $ npm install
 $ npm start
 ```
