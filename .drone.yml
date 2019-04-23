@@ -1,5 +1,5 @@
 kind: pipeline
-name: node8
+name: startrunning
 
 steps:
 - name: start
