@@ -1,0 +1,9 @@
+kind: pipeline
+name: node8
+
+steps:
+- name: start
+  image: node:10.15.3
+  commands:
+  - npm install
+  - npm start
